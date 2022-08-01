@@ -1,4 +1,4 @@
-https://react-feedback-web.netlify.app/
+Deployed link : https://json-feedback.herokuapp.com/
 
 # Getting Started with Create React App
 
